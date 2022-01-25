@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part1</folder>
+	<filename>0012_0098.JPG</filename>
+	<path>C:\Users\User\Desktop\part1\0012_0098.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>diseased</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>1360</ymin>
+			<xmax>5337</xmax>
+			<ymax>3060</ymax>
+		</bndbox>
+	</object>
+</annotation>
